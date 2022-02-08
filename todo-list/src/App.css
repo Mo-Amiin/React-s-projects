@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  line-height: 1.5;
+  font-family: "Roboto", "sans-serif";
+  background-color: rgb(42, 42, 90);
+
+}
+
+.App{
+  width: 100%;
+  max-width: 620px;
+  margin-left: auto;
+  margin-right: auto;
+}

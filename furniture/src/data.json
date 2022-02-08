@@ -1,0 +1,25 @@
+[
+    {
+    "id":1,
+    "titel":"Our latest furniture design",
+    "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta tempora placeat reprehenderit eligendi voluptatum? Corrupti repellendus quis maiores quam accusamus, hic et at, voluptatum in nesciunt, asperiores amet quasi iure.",
+    "img" : "/assets/images/",
+    "buttonLabel":"SHOP NOW"
+    },
+
+    {
+     "id":2,
+    "titel":"Chair Design",
+    "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta tempora placeat reprehenderit eligendi voluptatum? Corrupti repellendus quis maiores quam accusamus, hic et at, voluptatum in nesciunt, asperiores amet quasi iure.",
+    "img" : "/assets/images/",
+    "buttonLabel":"BUY NOW"
+    },
+
+    {
+    "id":3,
+    "titel":"Sofa Design",
+    "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta tempora placeat reprehenderit eligendi voluptatum? Corrupti repellendus quis maiores quam accusamus, hic et at, voluptatum in nesciunt, asperiores amet quasi iure.",
+    "img" : "/assets/images/",
+    "buttonLabel":"BUY NOW"
+    }
+]

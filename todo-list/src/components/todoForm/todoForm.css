@@ -1,0 +1,35 @@
+.todo-form{
+    height: 65px;
+    box-shadow: 1px 3px 8px -2px rgb(20, 20, 80);
+    border-radius: 5px;
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+input[type=text]{
+    width: 100%;
+    padding-left: 2.2rem;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    padding-top: 0.90rem;
+    border: none;
+    background-color: transparent;
+}
+input:focus,
+text:focus{
+    outline: none;
+}
+button{
+    all: unset;
+    position: relative;
+    font-size: 30px;
+    color: rgb(66, 61, 112);
+    bottom: 2.5rem;
+    float: right;
+    right: 1.5rem;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,45 @@
+.section-container{
+   display: flex;
+   justify-content: space-between;
+   padding-top: 50px;
+   padding-bottom: 100px;
+   
+
+}
+
+.side-con{
+    font-size: 1.3rem;
+}
+
+
+.side-con{
+    line-height: 2rem;
+}
+.side-con > .titel{
+    font-size: 2rem;
+    padding: 3rem 0 0 0;
+}
+.side-con > .description{
+    opacity: 0.8;
+    padding:2rem 0;
+
+
+}
+.button-style{
+    padding: 20px 50px;
+    background-color: #7c0dec;
+    color: white;
+    border: none;
+    font-size: 24px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .button-style:hover{
+      opacity: 0.8;
+  }
+
+.img  > img{
+    width:  600px;
+    padding-right: 30px;
+    padding-left: 30px;
+}

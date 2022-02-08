@@ -1,0 +1,50 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.MainContainer{
+  width: 80%;
+  height: 80vh;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px 15px;
+  background-color:#1c2841;
+  border-radius: 10px;
+}
+
+.boxContainer{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  /* background-color: violet; */
+}
+
+.box{
+  width: 24%;
+  height: 25vh;
+  background-color: #5e6d8df5;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+.muteIcon{
+  margin-left: 230px;
+}
+.userIcon{
+  width: fit-content;
+  height: fit-content;
+  padding: 25px 35px;
+  text-align: center;
+  background-color: green;
+  color: #fff;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+.userName{
+  margin-top: 30px;
+  font-size: 0.8em;
+}
